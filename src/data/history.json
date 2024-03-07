@@ -1,0 +1,18 @@
+[
+  {
+    "role": "BRAIN TEASER",
+    "organisation": " M. kumarasamy College Of Engineering -Karur",
+    "startDate": "",
+    "endDate": "18 Mar 2023",
+    "experiences": ["Got 1st Price in BRAIN TEASER"],
+    "imageSrc": "history/google.png"
+  },
+  {
+    "role": " TECHNICAL QUIZ",
+    "organisation": "PGP College Of Engineering - Namakkal",
+    "startDate": "",
+    "endDate": " 21 Jul 2023",
+    "experiences": ["Got 1st Price in TECHNICAL QUIZ"],
+    "imageSrc": "history/microsoft.png"
+  }
+]
